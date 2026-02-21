@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @G80M3
-- 👀 I’m interested in Biostatistics / Data Visualization / Big Data / Biostatistics / Statisticsal Computing
-- 🌱 I’m currently learning Biostatistics
-- 💞️ I’m looking to collaborate on Biostatistics using SAS
+- 👀 I’m interested in AI / Minecraft Modding / Game Development / 3D Animations
+- 🌱 I’m currently learning everything above (especially AI stuff software engineering
+- 💞️ I’m looking to collaborate on software engineering projects about AI, game development, Minecraft mods, and 3D animations
 - 📫 How to reach me: bm3461@nyu.edu
 
 <!---
