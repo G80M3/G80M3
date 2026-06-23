@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @G80M3
-- 👀 I’m interested in AI / Minecraft Modding / Game Development / 3D Animations
-- 🌱 I’m currently learning everything above (especially AI stuff software engineering
-- 💞️ I’m looking to collaborate on software engineering projects about AI, game development, Minecraft mods, and 3D animations
+- 👋 Hi, I’m Bouncet (@G80M3), A.K.A the ONE, TRUE, VIBE CODING KING.
+- 👀 I’m interested in AI / MMD/ Vibe Coding.
+- 🌱 I’m currently learning everything above (especially AI stuff software engineering).
+- 💞️ I’m looking to collaborate on software engineering projects about, you know, AI, MMD, and other software development projects.
 - 📫 How to reach me: bm3461@nyu.edu
+- Thank you for downloading my projects! ;)
 
 <!---
 G80M3/G80M3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
